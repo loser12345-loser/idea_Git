@@ -12,5 +12,6 @@ public class a_GitTest {
         System.out.println("push2 test");
         System.out.println("push3 test");
         System.out.println("push4 test");
+        System.out.println("push5 test");
     }
 }
