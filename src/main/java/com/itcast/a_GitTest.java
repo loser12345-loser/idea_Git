@@ -10,8 +10,6 @@ public class a_GitTest {
         System.out.println("hot_fix test");
         System.out.println("pull test");
         System.out.println("pull2 test");
-        System.out.println("test");
-        System.out.println("test1111111111");
-        System.out.println("test2222222222");
+
     }
 }
